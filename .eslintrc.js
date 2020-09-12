@@ -2,7 +2,6 @@ module.exports = {
   parser: 'babel-eslint',
   env: {
     browser: true,
-    es2021: true,
     jest: true,
   },
   extends: ['airbnb', 'plugin:prettier/recommended', 'prettier/react'],
