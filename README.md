@@ -2,6 +2,8 @@
 
 Repository which has the starting point for React, Jest, ESLint, Prettier and Enzyme.
 
+![](https://github.com/thunter1000/react-starter/workflows/Node.js%20CI/badge.svg?branch=master)
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
